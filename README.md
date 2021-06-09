@@ -4,6 +4,10 @@
 
 https://github.com/chronoslou/employee-directory
 
+## Deployed Link:
+
+https://chronoslou.github.io/employee-directory/
+
 ## Description
 
 This is an employee directory with React. This application's UI is broken into components, manages components' state, and responds to user events.
