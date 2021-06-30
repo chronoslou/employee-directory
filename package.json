@@ -10,6 +10,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "homepage": "https://chronoslou.github.io/employee-directory/",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
